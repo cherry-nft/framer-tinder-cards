@@ -56,7 +56,7 @@ const Home: NextPage = () => {
         ))}
       </AnimatePresence>
       {cards.length === 0 ? (
-        <span className="text-white text-xl">End of Stack</span>
+        <span className="text-white text-xl">hi sher</span>
       ) : null}
       <footer className="absolute bottom-4 flex items-center space-x-4">
         <div className="flex flex-col items-center space-y-2">
