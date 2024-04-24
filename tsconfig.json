@@ -5,6 +5,7 @@
       "@icons/*": ["icons/*"],
       "@components/*": ["components/*"],
       "@data/*": ["data/*"],
+      "@/subframe/*": ["./src/subframe/*"]
     },
    "declaration": true,
    "declarationDir": "./types",
